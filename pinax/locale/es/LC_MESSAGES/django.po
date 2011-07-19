@@ -22,7 +22,7 @@ msgstr "No Encontrado"
 
 #: templates/default/404.html:8
 msgid "We're sorry but that page could not be found."
-msgstr ""
+msgstr "Lo sentimos, la página solicitada no se encuentra."
 
 #: templates/default/500.html:5
 msgid "Server Error"
@@ -258,7 +258,7 @@ msgstr ""
 #: templates/default/account/password_change.html:15
 #: templates/default/account/password_reset_from_key.html:20
 msgid "change password"
-msgstr ""
+msgstr "cambiar contraseña"
 
 #: templates/default/account/password_delete.html:9
 msgid ""
@@ -267,7 +267,7 @@ msgstr ""
 
 #: templates/default/account/password_delete.html:12
 msgid "delete my password"
-msgstr ""
+msgstr "borrar contraseña"
 
 #: templates/default/account/password_delete_done.html:5
 #: templates/default/account/password_delete_done.html:8
@@ -357,11 +357,11 @@ msgstr ""
 
 #: templates/default/account/signup.html:6
 msgid "Signup"
-msgstr ""
+msgstr "Registrar"
 
 #: templates/default/account/signup.html:9
 msgid "Sign Up"
-msgstr ""
+msgstr "Regístrate"
 
 #: templates/default/account/signup.html:12
 msgid "You are already logged in."
@@ -502,15 +502,15 @@ msgstr ""
 
 #: templates/default/blog/edit.html:6
 msgid "Editing Post"
-msgstr ""
+msgstr "Editar entrada"
 
 #: templates/default/blog/edit.html:16
 msgid "Update"
-msgstr ""
+msgstr "Actualizar"
 
 #: templates/default/blog/edit.html:21
 msgid "You are not the author of this post"
-msgstr ""
+msgstr "Usted no es el autor de esta entrada"
 
 #: templates/default/blog/friends_posts.html:14
 msgid "These are blog posts from your friends:"
@@ -525,16 +525,16 @@ msgstr "crear"
 
 #: templates/default/blog/post.html:11
 msgid "Blog Post"
-msgstr ""
+msgstr "Publicar blog"
 
 #: templates/default/blog/your_posts.html:12
 msgid "Your Blog Posts"
-msgstr ""
+msgstr "Sus blog publicados"
 
 #: templates/default/blog/your_posts.html:62
 #: templates/default/threadedcomments/comments.html:24
 msgid "Delete Post"
-msgstr ""
+msgstr "Borrar entrada"
 
 #: templates/default/bookmarks/add.html:6
 #: templates/default/bookmarks/add.html:10
@@ -2246,7 +2246,7 @@ msgstr ""
 
 #: templates/default/wakawaka/page.html:49
 msgid "History"
-msgstr ""
+msgstr "Historial"
 
 #: templates/default/wakawaka/page_list.html:8
 #: templates/default/wakawaka/page_list.html:12
